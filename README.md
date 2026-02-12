@@ -48,8 +48,14 @@ This project is licensed under the CC-BY-4.0 License for documentation and MIT L
 
 ## Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+**Citation Instructions:**
+- See individual workshops for a doi which links to a citation
+- Please also cite The Turing Way:
+    > The Turing Way Community. (2025). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.2.3). Zenodo. https://doi.org/10.5281/zenodo.15213042
+
+**Acknowledgment:** 
+
+This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contact
 
@@ -58,7 +64,7 @@ This project is licensed under the CC-BY-4.0 License for documentation and MIT L
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a useful README file
+- [x] Add a useful README file
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
